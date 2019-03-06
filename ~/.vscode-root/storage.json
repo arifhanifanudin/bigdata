@@ -1,0 +1,31 @@
+{
+    "telemetry.machineId": "7c4ef5a0bf115a35061e2314a494657e65151ce6a979dd9561c3ebf088ff2428",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///root/Lecture/BIGDATA/2"
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/root/Lecture/BIGDATA/2",
+                "external": "file:///root/Lecture/BIGDATA/2",
+                "path": "/root/Lecture/BIGDATA/2",
+                "scheme": "file"
+            },
+            "backupPath": "/root/Lecture/BIGDATA/2/~/.vscode-root/Backups/199f30b23cb2263414a4e30bbf448bac",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 27,
+                "width": 1366,
+                "height": 741
+            }
+        }
+    }
+}

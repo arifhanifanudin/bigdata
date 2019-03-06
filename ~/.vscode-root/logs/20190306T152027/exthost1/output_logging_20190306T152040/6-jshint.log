@@ -1,0 +1,5 @@
+[Error - 11:33:07 PM] Server initialization failed.
+Error: Connection got disposed.
+	at Object.dispose (/root/.vscode/extensions/dbaeumer.jshint-0.10.20/jshint/node_modules/vscode-jsonrpc/lib/main.js:825:25)
+	at Object.dispose (/root/.vscode/extensions/dbaeumer.jshint-0.10.20/jshint/node_modules/vscode-languageclient/lib/client.js:57:35)
+	at stop._onStop.resolveConnection.then.connection.shutdown.then (/root/.vscode/extensions/dbaeumer.jshint-0.10.20/jshint/node_modules/vscode-languageclient/lib/client.js:1948:28)
