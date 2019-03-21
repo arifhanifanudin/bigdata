@@ -10,3 +10,5 @@
 - PySpark 2.4.0
 - Findspark 1.3.0
 - Jupyter Notebook
+
+## [Tampilkan hasil lebih detil](https://github.com/udinIMM/bigdata/blob/master/apache-spark-wine-reviews.ipynb)
